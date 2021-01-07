@@ -18,4 +18,4 @@ Leetcode Profile https://leetcode.com/abdullah13426/
 
 Timus online judge :  https://acm.timus.ru/author.aspx?id=304332
 
-LightOJ Profile :  https://lightoj.com/user/abdullah1342
+LightOJ Profile :  https://lightoj.com/user/abdullah13426
