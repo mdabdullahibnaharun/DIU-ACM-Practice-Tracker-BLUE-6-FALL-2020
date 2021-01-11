@@ -53,7 +53,6 @@ int main(){
         for(auto p : pe){
             cout<<p.name<<" "<<p.sum<<endl;
         }
-
         */
 
         if(pe[0].sum == pe[pe.size()-1].sum){
