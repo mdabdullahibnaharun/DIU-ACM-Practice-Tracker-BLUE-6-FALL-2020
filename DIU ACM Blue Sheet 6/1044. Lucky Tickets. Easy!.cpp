@@ -25,6 +25,7 @@ void isLucky(int k){
     }
 
     else{
+        //backtracking
         for(int i = 0 ; i <= 9 ; i++){
             s[k] = i;
             isLucky(k+1);

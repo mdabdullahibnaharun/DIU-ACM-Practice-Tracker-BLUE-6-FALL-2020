@@ -10,3 +10,12 @@ using namespace std;
 #define lli   long long int
 #define ull  unsigned long long
 typedef long long ll ;
+
+void solve(){
+
+}
+
+int main(){
+    solve();
+    return 0;
+}
