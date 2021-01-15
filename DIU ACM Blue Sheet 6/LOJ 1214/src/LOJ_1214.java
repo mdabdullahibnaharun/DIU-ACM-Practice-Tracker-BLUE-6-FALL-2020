@@ -12,9 +12,9 @@ public class LOJ_1214 {
             b = sc.nextBigInteger();
             BigInteger result = a.mod(b.abs());
             if (result.intValue()==0) {
-                System.out.println("Case : " + i + ": divisible");
+                System.out.println("Case " + i + ": divisible");
             } else {
-                System.out.println("Case : " + i + ": not divisible");
+                System.out.println("Case " + i + ": not divisible");
             }
         }
     }
