@@ -10,6 +10,9 @@ using namespace std;
 #define lli   long long int
 #define ull  unsigned long long
 typedef long long ll ;
+const int MOD = 1000000007;
+const int MAX = 1000005;
+
 
 void solve(){
 
