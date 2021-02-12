@@ -11,12 +11,20 @@ using namespace std;
 #define ull  unsigned long long
 typedef long long ll ;
 const int MOD = 1000000007;
-const int MAX = 100005;
+const int MAX = 500005;
 const int MAXN = 1e5 + 3;
 
 
 void solve(){
-
+    double R,n;
+    int i=0,tc;
+    scanf("%d",&tc);
+    while(tc--){
+        cin>>R>>n;
+        double angle = sin(PI/n);
+        double r = (angle*R)/(1+angle);
+        cout<<setprecision(10)<<"Case "<<++i<<": "<<r<<endl;
+    }
 }
 
 int main(){
