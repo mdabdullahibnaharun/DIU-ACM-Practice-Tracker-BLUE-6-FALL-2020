@@ -7,6 +7,7 @@ using namespace std;
 #define endl '\n'
 #define TRUE 1
 #define FALSE 0
+#define sqre(x) ((x)*(x))
 #define lli   long long int
 #define ull  unsigned long long
 typedef long long ll ;
