@@ -5,6 +5,7 @@
 #include <map>
 #include <algorithm>
 #include <iterator>
+#include <stdbool.h>
 #include <cstdio>
 #include <vector>
 #include <set>
